@@ -1,0 +1,81 @@
+<div style="position:absolute;left:0px;top:0px;"><a href="https://web.archive.org/web/20060509231721/http://www.myspacetotal.com/" target="_self"><img src="https://web.archive.org/web/20060509231721im_/http://www.myspacetotal.com/images/button.gif" border="0" alt="MySpace Layouts"/></div><style type="text/css">
+body {
+	background-color: rgb(255,255,255);
+	background-image: url(https://web.archive.org/web/20060509231721im_/http://img494.imageshack.us/img494/2562/layout3215sh.jpg);
+	background-position: center center;
+	background-repeat: repeat;
+	background-attachment: fixed;
+	}
+img {
+	border: 0;
+	}
+td, tr, div {
+	background-color: transparent;
+	border: 0;
+	}
+table {
+	padding: 5px;
+	background-color: transparent;
+	border: 0;
+	}
+table table {
+	background-color: transparent;
+	border: 0;
+	}
+table table table {
+	
+	background-color: transparent;
+	border-width: 0px;
+	border-color: rgb(102,102,102);
+	border-style: solid;
+	filter:alpha(100);
+	-moz-opacity:1;
+	opacity:1;
+	}
+table table table td {
+	border: 0;
+	}
+table table table table {
+	background-color: transparent;
+	border: 0;
+	}
+body, div, span, td, p, .orangetext15, .whitetext12, .lightbluetext8, strong, b, u, .redtext, .redbtext, .btext, .text, .nametext, .blacktext10, .blacktext12 {
+	font-family: Verdana;
+	font-size: 12px;
+	color: rgb(0, 81, 184);
+	font-weight: normal;
+	font-style: normal;
+	text-decoration: none;
+	}
+.nametext {
+	padding: 5px;
+	display:block;
+	font-family: Verdana;
+	font-size: 12px;
+	color: rgb(0, 101, 255);
+	font-weight: bold;
+	font-style: normal;
+	text-decoration: none;
+	}
+.whitetext12, .orangetext15 {
+	font-family: Verdana;
+	font-size: 12px;
+	color: rgb(98, 64, 255);
+	font-weight: bold;
+	font-style: normal;
+	text-decoration: none;
+	}
+a.navbar:link, a.navbar:active, a.navbar:visited, a.navbar:hover, a.man:link, a.man:active, a.man:visited, a.man:hover, a, a:link, a:active, a:visited, a:hover, a.navbar:link, a.navbar:active, a.navbar:visited, a.navbar:hover, a.text:link, a.text:active, a.text:visited, a.text:hover, a.searchlinksmall:link, a.searchlinksmall:active, a.searchlinksmall:visited, a.searchlinksmall:hover, a.redlink:link, a.redlink:active, a.redlink:visited, a.redlink:hover {
+	color: rgb(0, 211, 255);
+	font-weight: bold;
+	font-style: normal;
+	text-decoration: none;
+	}
+a.navbar:hover, a.man:hover, a:hover {
+	color: rgb(0, 0, 255);
+	font-weight: bold;
+	font-style: normal;
+	text-decoration: underline;
+	}
+</style><a href="https://web.archive.org/web/20060509231721/http://www.myspacetotal.com/">Get your own custom layouts at MySpace total!</a><br/><br/>
+ 
